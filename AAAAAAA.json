@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "author": "m0stafa",
+        "name": "AAAAAAA",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/m0oztafa"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/m0oztafa\/ERM\/main\/EEEEE.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": 184549376,
+        "background": 0,
+        "accent": -15068844,
+        "blocked_bg": -14808538,
+        "input_background": -11769738,
+        "mention_highlight": -1788928,
+        "active_channel": -16118682
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
